@@ -15,7 +15,7 @@ A simple Python encryption and decryption tool that uses a user-defined key to g
 Clone or download this repository to your computer:
 
 ```bash
-git clone <repository-url>
+git clone git clone https://github.com/samoraymiroy-gif/Msgcrypto.git
 ```
 
 Or download the project as a ZIP file and extract it.
